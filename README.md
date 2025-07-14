@@ -5,7 +5,7 @@ This is a working Sales Performance Dashboard, and it includes:
 - <a href="https://github.com/Kartik-456/excel-projects/blob/main/Excel_db1.zip">Dataset view</a>
 
 Features:
-
+Interactive Dashboard
 Region-wise sales and profit analysis
 Monthly performance breakdown
 State-wise sales contribution with proportions
